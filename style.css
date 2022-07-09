@@ -1,0 +1,23 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  height: 100%;
+  background-color: #ffffff;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.animated_box {
+    background: #3944BC;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50px;
+}
